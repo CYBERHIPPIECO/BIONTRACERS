@@ -1,7 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# BIONTRACERS - Interactive Cyberpunk Fiction
+# BIONTRACERS - Short Cyberpunk Film
 Bion Tracers
 
 Interactive Cyberpunk Fiction
